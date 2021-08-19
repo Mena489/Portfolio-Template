@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+	font:400 16px "Nunito Sans" ,sans-serif;
+	color:#787878;
+
+}
+input:focus{
+	outline: none;
+}
+button{
+	border: none;
+} 
+ul{
+	padding-left: 0;
+	list-style: none;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: #191919;;
+}
